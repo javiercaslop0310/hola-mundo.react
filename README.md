@@ -1,6 +1,6 @@
 # Proyecto de Sostenibilidad con React, Typescript y bootstrap
 
-Primero año de Desarrollo de Aplicaciones Web
+Primer año de Desarrollo de Aplicaciones Web
 
 ---
 
