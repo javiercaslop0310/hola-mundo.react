@@ -32,7 +32,6 @@ export const Card = ({ itemOds }: { itemOds: InterfazSostenible }) => {
         display: "flex",
         flexDirection: "column",
         gap: "1rem",
-        minWidth: "250px",
         cursor: "pointer",
         transition: "transform 0.3s ease, boxShadow 0.3s ease",
       }}
