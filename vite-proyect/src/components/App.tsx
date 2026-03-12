@@ -4,7 +4,15 @@ import { odsAlumnos } from "../data/Ods";
 function App() {
   return (
     <div className="container">
-      <h1>Lista ODS</h1>
+      <h1
+        style={{
+          fontSize: "70px",
+          textAlign: "center",
+          fontFamily: "Georgia, serif",
+        }}
+      >
+        Lista ODS
+      </h1>
       <div
         style={{
           display: "grid",
